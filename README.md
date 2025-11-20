@@ -20,10 +20,10 @@
 ## 🧩 About
 
 - Career transition from **3D / FiveM environment modeling** to **Data Analytics & Data Science**.
-- Bachelor’s degree in **Database Technology**, with a solid foundation in SQL and data modeling.
-- Background in **3D/FiveM environment modeling for Brazilian brands such as Natura, Risqué, Mercado Livre and Mercado Pago** (events and in-game experiences), working with complex pipelines and deadlines, which strengthened discipline and ownership and transfers well to data workflows.
-- Focused on building **well-structured, documented analytics workflows** and communicating insights in a clear, objective way.
-- Based in Brazil (UTC−3), open to **remote junior and internship opportunities** in Analytics / Data Science.
+- Bachelor’s degree in **Database Technology** (SQL and data modeling).
+- Experience with **3D/FiveM environments for Brazilian brands such as Natura, Risqué, Mercado Livre and Mercado Pago**, working with complex pipelines and deadlines that transfer well to data workflows.
+- Focused on **well-structured, documented analytics workflows** and clear, objective communication of insights.
+- Based in Brazil (UTC−3), open to **remote junior and internship roles** in Analytics / Data Science.
 
 ---
 
@@ -36,10 +36,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Data & Analytics · currently learning
 
@@ -50,8 +50,9 @@
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-FF5500?style=for-the-badge&logo=rockstar%20games&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF6A00?style=for-the-badge&logo=adobe&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe&logoColor=white)
 
 > On my radar (next steps): `Streamlit` (data apps), `dbt` (analytics engineering), `Docker` (containers), `Azure` / `AWS` (cloud for data workloads).
 
@@ -76,9 +77,9 @@
 
 **Planned projects (next steps)**
 
-- **Customer Churn Analysis** – analysis of customer cancellation patterns and a simple churn model prototype.  
-- **Credit Risk Sandbox** – compact credit scoring study with interpretable models and business-focused metrics.  
-- **3D Pipeline Analytics (FiveM)** – metrics and scripts to understand productivity in 3D/FiveM asset and map pipelines.  
+- **Customer Churn Analysis** – planned churn study with a simple predictive model.  
+- **Credit Risk Sandbox** – planned compact credit scoring project with interpretable models.  
+- **3D Pipeline Analytics (FiveM)** – planned metrics and automation for 3D/FiveM asset and map pipelines.  
 
 ---
 
@@ -98,7 +99,7 @@
 
   - Em transição de **modelagem 3D / FiveM** para **Data Analytics & Data Science**.  
   - Graduação em **Banco de Dados**, com base sólida em SQL e modelagem de dados.  
-  - Histórico com **modelagem de ambientes 3D/FiveM para marcas brasileiras como Natura, Risqué, Mercado Livre e Mercado Pago** (eventos e experiências in-game), atuando com pipelines complexos e prazos definidos, o que reforçou disciplina e senso de dono e se conecta bem com rotinas de dados.  
+  - Experiência com **modelagem de ambientes 3D/FiveM para marcas brasileiras como Natura, Risqué, Mercado Livre e Mercado Pago** (eventos e experiências in-game), atuando com pipelines complexos e prazos definidos, o que reforçou disciplina e senso de dono e se conecta bem com rotinas de dados.  
   - Focado em construir **análises bem estruturadas, documentadas** e com comunicação clara dos resultados.  
   - Residente no Brasil (UTC−3), aberto a **oportunidades remotas**, tanto de nível **júnior** quanto de **estágio**, em Analytics / Data Science.  
 
