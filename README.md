@@ -1,25 +1,26 @@
 # Hi, I'm Lucas 👋
 
-_Data Science • Analytics • Data Engineering student | From 3D/game dev to data_
+_Data Analytics • Data Science • Data Engineering student | From 3D/game dev to data_
 
 ---
 
 ## 👨‍💻 About me
 
-- 🎯 **Data Science, Analytics and Data Engineering student**, building a portfolio with real-world projects  
+- 🎯 **Data Science, Analytics and Data Engineering student**, building a portfolio with real-world-style projects  
 - 🎓 Currently pursuing a **Database** degree, with a curriculum focused on data, databases and analytics  
-- 🔄 **Career transition from 3D and game development (FiveM, Unreal, etc.)** to the Data world  
-- 📊 Interested in **Data Science & Analytics**, **Data Engineering fundamentals** and **Machine Learning**  
-- 📚 Learning through courses, documentation and a lot of hands-on practice  
+- 🔄 **Transitioning from several years as a 3D Environment / Tech Artist (FiveM, GTA V, Unreal-like workflows)** to the Data world  
+- 🏗 Delivered 3D environments and interactive experiences for Brazilian brands such as **Natura, Risqué, Mercado Pago, Mercado Livre**, among others  
+- 📊 Now focused on **Data Analytics & Data Science**, **Data Engineering fundamentals** and **Machine Learning** applied to business problems  
+- 📚 Learning through courses, documentation and a lot of hands-on practice, prioritizing end-to-end projects (data → EDA → model → dashboard)  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Main (daily focus)**  
+**Data (current focus)**  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL (PostgreSQL / MySQL / SQLite)  
-- Jupyter Notebook  
+- Jupyter Notebook / VS Code  
 - Power BI / Tableau Public  
 - Git & GitHub  
 
@@ -28,9 +29,15 @@ _Data Science • Analytics • Data Engineering student | From 3D/game dev to d
 - Data layers with CSV/Parquet (`data/raw`, `data/processed`)  
 - Basic orchestration / scheduling concepts  
 
+**Previous career – 3D (core tools only)**  
+- Blender  
+- Substance Painter  
+- Photoshop  
+- 3ds Max  
+
 **Currently studying / exploring**  
 - Streamlit (interactive apps/dashboards)  
-- GitHub API (REST/GraphQL) for data pipelines  
+- GitHub API (REST/GraphQL) for data pipelines and analytics  
 - Docker  
 
 ---
@@ -38,14 +45,14 @@ _Data Science • Analytics • Data Engineering student | From 3D/game dev to d
 ## 📂 Highlight Projects (portfolio roadmap)
 
 > Main projects I am designing/building for my Data portfolio.  
-> Status: _planning → in progress → completed_.
+> Status: _planning → early development → completed_.
 
-- 🧮 **E-commerce Demand Forecasting with 3D Analytics** _(planning)_  
+- 🧮 [**E-commerce Demand Forecasting with 3D Analytics**](https://github.com/LucasFDL/ecommerce-demand-forecasting-3d-analytics) _(early development)_  
   - Demand forecasting per category/SKU with time-series models and rolling backtesting (MAE / wMAPE)  
-  - 3D Plotly visualizations + interactive dashboard (Power BI / Plotly) with price/promotion simulator  
+  - 2D/3D Plotly visualizations + interactive dashboard (Power BI / Plotly) with price/promotion simulator  
 
 - 💳 **Credit Default Risk Modeling** _(planning)_  
-  - Credit risk EDA and segmentation using public financial datasets  
+  - Credit risk EDA and customer segmentation using public financial datasets  
   - Classification models (PD), imbalance handling, calibration and cost-sensitive threshold  
 
 - 🛠️ **GitHub Engineering Productivity Analytics Pipeline** _(planning)_  
@@ -67,6 +74,7 @@ _Data Science • Analytics • Data Engineering student | From 3D/game dev to d
 - [ ] Dashboards with Power BI / Tableau  
 - [ ] Data pipelines (ETL/ELT) with better structure  
 - [ ] Classic Machine Learning models  
+- [ ] 3–4 complete portfolio projects (data ingestion, EDA, model, dashboard, documentation)  
 
 ---
 
@@ -84,26 +92,27 @@ _Data Science • Analytics • Data Engineering student | From 3D/game dev to d
 
 # Olá, eu sou o Lucas 👋
 
-_Estou construindo minha carreira em Dados._
+_Análise de Dados, Ciência de Dados e Engenharia de Dados (em transição) · Artista Técnico / de Ambientes 3D · Do 3D para dados_
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎯 **Estudante de Ciência de Dados, Análise de Dados e Engenharia de Dados**, focado em projetos práticos  
+- 🎯 **Estudante de Ciência de Dados, Análise de Dados e Engenharia de Dados**, focado em projetos práticos e aplicados  
 - 🎓 Cursando **Faculdade de Banco de Dados**, com currículo voltado para dados, bancos de dados e analytics  
-- 🔄 Em **transição de carreira** a partir de 3D e desenvolvimento de jogos (FiveM, Unreal, etc.) para a área de Dados  
-- 📊 Interesses em **Ciência e Análise de Dados**, **Fundamentos de Engenharia de Dados** e **Machine Learning**  
-- 📚 Estudando com cursos online, documentação e muita prática mão na massa  
+- 🔄 Em **transição de carreira após alguns anos como artista de ambientes / tech artist 3D (FiveM, GTA V, workflows estilo Unreal)** para a área de Dados  
+- 🏗 Entreguei ambientes 3D e experiências interativas para marcas brasileiras como **Natura, Risqué, Mercado Pago, Mercado Livre**, entre outras  
+- 📊 Hoje focado em **Ciência e Análise de Dados**, **fundamentos de Engenharia de Dados** e **Machine Learning** aplicado a problemas de negócio  
+- 📚 Estudando com cursos online, documentação e muita prática mão na massa, priorizando projetos ponta a ponta (dados → EDA → modelo → dashboard)  
 
 ---
 
 ## 🛠 Stack Tecnológico
 
-**Principal (foco atual)**  
+**Dados (foco atual)**  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL (PostgreSQL / MySQL / SQLite)  
-- Jupyter Notebook  
+- Jupyter Notebook / VS Code  
 - Power BI / Tableau Public  
 - Git & GitHub  
 
@@ -112,21 +121,27 @@ _Estou construindo minha carreira em Dados._
 - Camadas de dados CSV/Parquet (`data/raw`, `data/processed`)  
 - Noções de orquestração / agendamento  
 
+**3D / Desenvolvimento de jogos (ferramentas principais)**  
+- Blender  
+- Substance Painter  
+- Photoshop  
+- 3ds Max  
+
 **Estudando / explorando agora**  
 - Streamlit (apps/dashboards interativos)  
-- GitHub API (REST/GraphQL) para pipelines de dados  
+- GitHub API (REST/GraphQL) para pipelines e analytics  
 - Docker  
 
 ---
 
 ## 📂 Projetos em Destaque (roadmap de portfólio)
 
-> Principais projetos que estou desenhando/construindo para o meu portfólio.  
-> Status: _planejado → em andamento → concluído_.
+> Principais projetos que estou desenhando/construindo para o meu portfólio em Dados.  
+> Status: _planejado → em desenvolvimento inicial → concluído_.
 
-- 🧮 **Previsão de Demanda em E-commerce com Analytics 3D** _(planejado)_  
+- 🧮 [**Previsão de Demanda em E-commerce com Analytics 3D**](https://github.com/LucasFDL/ecommerce-demand-forecasting-3d-analytics) _(desenvolvimento inicial)_  
   - Previsão de demanda por categoria/SKU com modelos de séries temporais e backtesting (MAE / wMAPE)  
-  - Visualizações 3D com Plotly + dashboard interativo (Power BI / Plotly) com simulador de preço/promoção  
+  - Visualizações 2D/3D com Plotly + dashboard interativo (Power BI / Plotly) com simulador de preço/promoção  
 
 - 💳 **Modelagem de Risco de Inadimplência em Crédito** _(planejado)_  
   - EDA financeira e segmentação de clientes com bases públicas de crédito  
@@ -151,6 +166,7 @@ _Estou construindo minha carreira em Dados._
 - [ ] Dashboards em Power BI / Tableau  
 - [ ] Pipelines de dados (ETL/ELT) mais robustos  
 - [ ] Modelos clássicos de Machine Learning  
+- [ ] Construir 3–4 projetos completos de portfólio (ingestão, EDA, modelo, dashboard, documentação)  
 
 ---
 
