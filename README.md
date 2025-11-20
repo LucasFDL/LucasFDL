@@ -20,7 +20,7 @@
 ## 🧩 About
 
 - Career transition from **3D / FiveM environment modeling** to **Data Analytics & Data Science**.
-- Bachelor’s degree in **Database Technology** (SQL and data modeling).
+- Currently pursuing a **Bachelor’s degree in Database Technology** (SQL and data modeling).
 - Experience with **3D/FiveM environments for Brazilian brands such as Natura, Risqué, Mercado Livre and Mercado Pago**, working with complex pipelines and deadlines that transfer well to data workflows.
 - Focused on **well-structured, documented analytics workflows** and clear, objective communication of insights.
 - Based in Brazil (UTC−3), open to **remote junior and internship roles** in Analytics / Data Science.
@@ -36,10 +36,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Data & Analytics · currently learning
 
@@ -60,7 +60,7 @@
 
 ## 🎓 Education
 
-- Bachelor’s degree in **Database Technology** (Brazil) – strong base in SQL, data modeling and relational databases.
+- Currently pursuing a **Bachelor’s degree in Database Technology** (Brazil), building a strong foundation in SQL, data modeling and relational databases.
 - Ongoing **Data Analytics / Data Science** track:
   - SQL & Python for data analysis  
   - Exploratory Data Analysis (EDA)  
@@ -98,7 +98,7 @@
   <h2>🧩 Sobre</h2>
 
   - Em transição de **modelagem 3D / FiveM** para **Data Analytics & Data Science**.  
-  - Graduação em **Banco de Dados**, com base sólida em SQL e modelagem de dados.  
+  - Cursando **graduação em Banco de Dados**, com foco em SQL e modelagem de dados.  
   - Experiência com **modelagem de ambientes 3D/FiveM para marcas brasileiras como Natura, Risqué, Mercado Livre e Mercado Pago** (eventos e experiências in-game), atuando com pipelines complexos e prazos definidos, o que reforçou disciplina e senso de dono e se conecta bem com rotinas de dados.  
   - Focado em construir **análises bem estruturadas, documentadas** e com comunicação clara dos resultados.  
   - Residente no Brasil (UTC−3), aberto a **oportunidades remotas**, tanto de nível **júnior** quanto de **estágio**, em Analytics / Data Science.  
@@ -107,7 +107,7 @@
 
   <h2>🎓 Formação</h2>
 
-  - Graduação em **Banco de Dados** (Brasil) – base forte em SQL, modelagem relacional e conceitos de bancos de dados.  
+  - Cursando **graduação em Banco de Dados** (Brasil), desenvolvendo base forte em SQL, modelagem relacional e conceitos de bancos de dados.  
   - Trilha em **Data Analytics / Data Science**:
     - SQL & Python para análise de dados  
     - Análise Exploratória de Dados (EDA)  
