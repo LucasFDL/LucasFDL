@@ -2,6 +2,8 @@
 
 _Data Analytics • Data Science • Data Engineering student | From 3D/game dev to data_
 
+[![Versão em português](https://img.shields.io/badge/Vers%C3%A3o%20em%20portugu%C3%AAs-%F0%9F%87%A7%F0%9F%87%B7-blue)](#pt-br)
+
 ---
 
 ## 👨‍💻 About me
@@ -85,6 +87,7 @@ _Data Analytics • Data Science • Data Engineering student | From 3D/game dev
 
 ---
 
+<a id="pt-br"></a>
 <details>
 <summary><strong>Versão em português 🇧🇷</strong></summary>
 
@@ -92,7 +95,7 @@ _Data Analytics • Data Science • Data Engineering student | From 3D/game dev
 
 # Olá, eu sou o Lucas 👋
 
-_Análise de Dados, Ciência de Dados e Engenharia de Dados (em transição) · Artista Técnico / de Ambientes 3D · Do 3D para dados_
+_Artista Técnico 3D migrando para Análise, Ciência e Engenharia de Dados._
 
 ---
 
