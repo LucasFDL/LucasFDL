@@ -22,7 +22,7 @@
 - Career transition from **3D / FiveM environment modeling** to **Data Analytics & Data Science**.
 - Currently pursuing a **Bachelor’s degree in Database Technology** (SQL and data modeling).
 - Experience with **3D/FiveM environments for Brazilian brands such as Natura, Risqué, Mercado Livre and Mercado Pago**, working with complex pipelines and deadlines that transfer well to data workflows.
-- Focused on **well-structured, documented analytics workflows** and clear, objective communication of insights.
+- Focused on **well-structured, well-documented analytics workflows** and clear, objective communication of insights.
 - Based in Brazil (UTC−3), open to **remote junior and internship roles** in Analytics / Data Science.
 
 ---
@@ -73,13 +73,13 @@
 
 **Current project**
 
-- [**E-commerce Demand Forecasting with 3D Analytics**](https://github.com/LucasFDL/ecommerce-demand-forecasting-3d-analytics) – e-commerce demand forecasting with structured EDA and a focus on visualizations and time-series forecasting.
+- [**E-commerce Demand Forecasting with 3D Analytics**](https://github.com/LucasFDL/ecommerce-demand-forecasting-3d-analytics) – e-commerce demand forecasting with structured EDA, feature engineering (calendar, lags, price & promotions), proper backtesting and a focus on high-impact 2D/3D visualizations and an interactive BI dashboard.
 
 **Planned projects (next steps)**
 
-- **Customer Churn Analysis** – planned churn study with a simple predictive model.  
-- **Credit Risk Sandbox** – planned compact credit scoring project with interpretable models.  
-- **3D Pipeline Analytics (FiveM)** – planned metrics and automation for 3D/FiveM asset and map pipelines.  
+- **Credit Risk Sandbox** – compact credit scoring project using public datasets, with focus on class imbalance, calibration, cost-sensitive thresholds and explainability (SHAP) to support business decisions.  
+- **GitHub Workflow Analytics** – end-to-end pipeline using the GitHub API to analyze issues/PRs, compute engineering flow metrics (lead time, throughput, WIP, aging) and power an interactive dashboard/app for repository health.  
+- **Cohorts & LTV Analytics** – executive cohort dashboard tracking Retention 30/60/90, ARPU, accumulated LTV and payback vs CAC by channel, built with SQL-based cohort tables and BI (Power BI / Plotly).  
 
 ---
 
@@ -99,7 +99,7 @@
 
   - Em transição de **modelagem 3D / FiveM** para **Data Analytics & Data Science**.  
   - Cursando **graduação em Banco de Dados**, com foco em SQL e modelagem de dados.  
-  - Experiência com **modelagem de ambientes 3D/FiveM para marcas brasileiras como Natura, Risqué, Mercado Livre e Mercado Pago** (eventos e experiências in-game), atuando com pipelines complexos e prazos definidos, o que reforçou disciplina e senso de dono e se conecta bem com rotinas de dados.  
+  - Experiência com **modelagem de ambientes 3D/FiveM para marcas brasileiras como Natura, Risqué, Mercado Livre e Mercado Pago** (eventos e experiências in-game), atuando com pipelines complexos e prazos definidos – o que reforçou disciplina, senso de dono e se conecta bem com rotinas de dados.  
   - Focado em construir **análises bem estruturadas, documentadas** e com comunicação clara dos resultados.  
   - Residente no Brasil (UTC−3), aberto a **oportunidades remotas**, tanto de nível **júnior** quanto de **estágio**, em Analytics / Data Science.  
 
@@ -107,7 +107,7 @@
 
   <h2>🎓 Formação</h2>
 
-  - Cursando **graduação em Banco de Dados** (Brasil), desenvolvendo base forte em SQL, modelagem relacional e conceitos de bancos de dados.  
+  - Cursando **graduação em Banco de Dados** (Brasil), desenvolvendo base sólida em SQL, modelagem relacional e conceitos de bancos de dados.  
   - Trilha em **Data Analytics / Data Science**:
     - SQL & Python para análise de dados  
     - Análise Exploratória de Dados (EDA)  
@@ -122,13 +122,13 @@
 
   **Projeto atual**
 
-  - [**E-commerce Demand Forecasting with 3D Analytics**](https://github.com/LucasFDL/ecommerce-demand-forecasting-3d-analytics) – previsão de demanda em e-commerce com EDA estruturada e foco em visualizações e forecasting.
+  - [**E-commerce Demand Forecasting with 3D Analytics**](https://github.com/LucasFDL/ecommerce-demand-forecasting-3d-analytics) – previsão de demanda em e-commerce com EDA estruturada, engenharia de atributos (calendário, lags, preço e promoções), backtesting adequado e foco em visualizações 2D/3D e dashboard interativo.
 
   **Próximos passos (projetos planejados)**
 
-  - **Customer Churn Analysis** – análise de padrões de cancelamento de clientes e protótipo de modelo simples de churn.  
-  - **Credit Risk Sandbox** – estudo enxuto de credit scoring com modelos interpretáveis e foco em métricas de negócio.  
-  - **3D Pipeline Analytics (FiveM)** – métricas e scripts para entender produtividade em pipelines de assets/maps para FiveM.  
+  - **Credit Risk Sandbox** – estudo enxuto de risco de crédito com dados públicos, abordando desbalanceamento, calibração, limiar ajustado por custo do erro e modelos interpretáveis para apoiar decisão.  
+  - **GitHub Workflow Analytics** – pipeline fim a fim consumindo a API do GitHub para analisar issues/PRs, calcular métricas de fluxo (lead time, throughput, WIP, aging) e entregar um painel/app de saúde do repositório.  
+  - **Cohorts & LTV Analytics** – painel executivo de cohorts para acompanhar Retenção 30/60/90, ARPU, LTV acumulado e payback vs CAC por canal, usando tabelas de cohort em SQL e BI (Power BI / Plotly).  
 
   ---
 
